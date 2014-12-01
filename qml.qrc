@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>boss1.qml</file>
+        <file>boss2.qml</file>
+        <file>bullet.qml</file>
+        <file>color_block.qml</file>
+        <file>enemy_bullet.qml</file>
+        <file>enemy1.qml</file>
+        <file>enemy2.qml</file>
+        <file>ettnasa.png</file>
+        <file>ettnus.png</file>
+        <file>explosion.qml</file>
+        <file>fiende.1.png</file>
+        <file>js.js</file>
+        <file>main.qml</file>
+        <file>music1.ogg</file>
+        <file>punishment.qml</file>
+        <file>sfiende.png</file>
+        <file>special_bullet.qml</file>
+        <file>music2.ogg</file>
+        <file>music3.ogg</file>
+        <file>music4.ogg</file>
+        <file>music5.ogg</file>
+    </qresource>
+</RCC>
